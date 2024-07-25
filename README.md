@@ -1,4 +1,4 @@
-# Contoso-store-Sales-Report
+# Contoso-Store-Sales-Report
 
 This was created in Tableau Desktop, hence attaching the screenshot of the dashboard.
 
