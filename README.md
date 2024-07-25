@@ -1,8 +1,9 @@
 # Contoso-Store-Sales-Report
 
-This was created in Tableau Desktop, hence attaching the screenshot of the dashboard.
+1. Extracted Data: Connected Tableau to Microsoft SQL Server to extract the required data.
+2. Docker Setup: Utilized Docker on a Mac to manage and run a SQL Server container.
 
-To know more about the report, kindly download the tableau desktop [Sales Report.twd] file attched in this repository.
+This was created in Tableau Desktop, hence attaching the screenshot of the dashboard. To know more about the report, kindly download the tableau desktop [Sales Report.twd] file attched in this repository.
 
 # Year on Year Sales:
 
